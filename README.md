@@ -1,7 +1,6 @@
 - :trollface: Hi, my name is Slim Felix
-- :suspect: I’m interested in everything that makes working easier ;)
-- :godmode: I’m currently learning how to learn.
-- :hurtrealbad: I’m looking to collaborate on ???
+- :suspect: I’m interested in everything that makes work easier ;)
+- :hurtrealbad: I’m looking to collaborate on everything nerdy
 - :rage4: How to reach me: Mail, Mobile,.. you know the drill
 
 <!---
